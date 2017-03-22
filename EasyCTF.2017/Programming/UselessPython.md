@@ -8,7 +8,7 @@ Description:
 ```
 Boredom took over, so I wrote this python file! I didn't want anyone to see it though because it doesn't actually run, so I used the coolest base-16 encoding to keep it secret. python 
 ```
-<a href="./../files/42552c587e13c09d2873cf20c4a2a558f60a3a46_useless.py">useless.py></a>
+<a href="./../files/42552c587e13c09d2873cf20c4a2a558f60a3a46_useless.py">useless.py</a>
 
 The python scrypt is encoded with base16, decoder gives me this:
 exec(chr(101)+chr(120)+chr(101)+.....)
