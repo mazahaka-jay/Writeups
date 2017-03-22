@@ -36,6 +36,7 @@ with open ('text.png', 'wb') as out:
 ```
 
 And we have the flag:
+
 <img src="./../files/text.png">
 
 flag = easyctf{r3v3r5ed_4ensics}
