@@ -13,8 +13,7 @@ Boredom took over, so I wrote this python file! I didn't want anyone to see it t
 The python scrypt is encoded with base16, decoder gives me this:
 exec(chr(101)+chr(120)+chr(101)+.....)
 
-Code:
-```
+Code:```
 with open ('base16.txt', 'r') as f:
     num = ''
     for char in f.read():
