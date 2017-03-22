@@ -12,7 +12,8 @@ Hint:  Did I put this in the wrong category?
 
 File = elif
 
-<summary> 6c0baad166c1256a29d469bae8a778ce5012ba77_elif </summary>
+6c0baad166c1256a29d469bae8a778ce5012ba77_elif
+'''
 <pre> ‚`B®DNEI    °ґ&;н°.ыюя–!Bc$`x„!	Њ‘Ѓв„&2BН†–№?Ш¦в„ЖH)Ћей†™==<¦в…Ё№Ћеи¦в„ЖH№Ћеи¦в„ЖH‰ЋеиЦв…Ё‰ЋеиЦв„ЖHГхъ`ЁqB}Ф.Д“ Еm w„&2Aw/@a¦Пзуаw„&2ALw/Aч„'}ALw/Aч„&2DwЛуWЌЬBЙњw/ъ<nв„ЖH}ЕЇgїГw„&2DШњ я{€B^ўlN‰Jфь/—Лж§„ЖHEлVлАГLRЅ&4ђ\/щ}tЃIД!1’!Ьї„џ“oE§§§Ш=мЋњB#ЫЕф|Я?шҐxґй
 0лBО!м‘в‰и?#Ъ`!ЋЯб.©ъ!	z–%~c"ЛяFП`чТЙ"iзI6!	&ќG‹тМ+]Нћ¦ЖX­ё~Љѕ‘іnщ7‹D!	ж:yь¬4{жfПsdЇТs±[э?c©.о,
 „!™m+’Ь+¦-d©IПЂ·у§мu"БЭ`OEВ:QРЋв¦ц!а”»яLж.AЈмN·±’®W-ы>^QgЈ0­Хd
@@ -51,7 +52,8 @@ N•F	HR‘Ыъ·¤¤вc$ДАI•‡+VћћџЪ­mј!РМ‘Ы›#_Ї+ъю
    
 
 
-GNP‰ </pre>
+GNP‰ 
+'''
 
 As I can see it is all about mirorring the text (Scisnerof is forensics, elif is file, GNP at the end of file is PNG, and so on).
 
@@ -65,6 +67,6 @@ with open ('text.png', 'wb') as out:
 </p>
 
 And we have the flag:
-https://github.com/mazahaka-jay/Writeups/blob/master/EasyCTF.2017/files/text.png
+<img src="./../files/text.png">
 
 flag = easyctf{r3v3r5ed_4ensics}
