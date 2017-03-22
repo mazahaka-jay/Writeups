@@ -27,13 +27,13 @@ GNP‰
 As I can see it is all about mirorring the text (Scisnerof is forensics, elif is file, GNP at the end of file is PNG, and so on).
 
 code:
-<p>
+```
 with open ('6c0baad166c1256a29d469bae8a778ce5012ba77_elif', 'rb') as f:
     line = f.read()
 line = line[::-1]
 with open ('text.png', 'wb') as out:
     out.write(line)
-</p>
+```
 
 And we have the flag:
 <img src="./../files/text.png">
