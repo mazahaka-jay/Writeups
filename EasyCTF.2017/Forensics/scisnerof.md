@@ -65,3 +65,6 @@ with open ('text.png', 'wb') as out:
 </p>
 
 And we have the flag:
+https://github.com/mazahaka-jay/Writeups/blob/master/EasyCTF.2017/files/text.png
+
+flag = easyctf{r3v3r5ed_4ensics}
